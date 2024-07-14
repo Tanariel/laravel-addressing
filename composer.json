@@ -25,7 +25,7 @@
 		"php": ">=7.4",
 		"laravel/framework": "^11.0",
 		"commerceguys/addressing": "^v1.2",
-		"symfony/intl": "^v4.2|^v5.0|^v6.0",
+		"symfony/intl": "^v4.2|^v5.0|^v6.0|^v7.0",
 		"commerceguys/intl": "^v1.1",
 		"doctrine/collections": "^1.6.2"
 	},
